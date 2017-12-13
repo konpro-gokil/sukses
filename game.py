@@ -40,4 +40,4 @@ def game_sederhana():
 	if pil>=4:
 		print("pilihan tidak ada. . .")
 		
-game_sederhana()
+game_sederhana()"#sukses" 
